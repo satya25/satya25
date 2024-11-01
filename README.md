@@ -4,7 +4,11 @@
 **satya25/satya25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Highly motivated Product & Solution Architect and Full-Stack Developer with a passion for building innovative solutions. 28+ years of experience across diverse domains (Operating Sysrtems, Health Care, Logistics, EdTech, FinTech, Online Ads) within leading companies and startups. Proven track record in delivering high-quality web applications using Agile methodologies and Test Driven Development (TDD). Skilled in Python, PHP, Groovy, C++, MySQL/MariaDB, and AI/ML libraries (Pandas, NumPy, Scikit-learn).
+Highly motivated Product & Solution Architect and Full-Stack Developer with 28+ years of experience across diverse domains (Operating Systems, Health Care, Logistics, EdTech, FinTech, Online Ads). Proven track record in delivering high-quality web applications using Agile methodologies and Test Driven Development (TDD). Skilled in Python, PHP, Groovy, C++, MySQL/MariaDB, and AI/ML libraries (Pandas, NumPy, Scikit-learn, OpenCV, NLTK et al). 
+
+Open to Full-Time, Contractual Assignments, and Freelance/Independent Consulting roles. Seeking IC, Architecture, PO, or Consulting opportunities to deliver impactful solutions. 
+
+Targeting top-tier tech leaders and start-ups ready to leverage 3 decades of experience..
  
 🔭 I'm currently working on these technology and and would be sharing my learnings through tutorials and code snippets here as well as via website:
 
