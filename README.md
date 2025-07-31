@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Satya%20Prakash%20Nigam-28%2B%20yrs%20in%20Tech%20%7C%20AI%20Architect%20%7C%20GenAI%20Consultant%20%7C%20Open%20Source%20Contributor-blueviolet?style=for-the-badge&logo=github" alt="Satya Prakash Nigam Badge">
+</p>
+
+
 # 👋 Hello, I'm Satya Prakash Nigam
 
 🚀 **Product & Solution Architect | Full-Stack Developer | AI Strategist**
