@@ -1,45 +1,63 @@
-## Hi there 👋
+# 👋 Hello, I'm Satya Prakash Nigam
 
-<!--
-**satya25/satya25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+🚀 **Product & Solution Architect | Full-Stack Developer | AI Strategist**
 
-Highly motivated Product & Solution Architect and Full-Stack Developer with 28+ years of experience across diverse domains (Operating Systems, Health Care, Logistics, EdTech, FinTech, Online Ads). Proven track record in delivering high-quality web applications using Agile methodologies and Test Driven Development (TDD). Skilled in Python, PHP, Groovy, C++, MySQL/MariaDB, and AI/ML libraries (Pandas, NumPy, Scikit-learn, OpenCV, NLTK et al). 
+With over **28 years of experience** across Operating Systems, Health Care, Logistics, EdTech, FinTech, and Online Advertising, I specialize in building **impactful, scalable, and intelligent software solutions**. From low-level OS internals to AI-powered web apps, my journey blends depth and diversity.
 
-Open to Full-Time, Contractual Assignments, and Freelance/Independent Consulting roles. Seeking IC, Architecture, PO, or Consulting opportunities to deliver impactful solutions. 
+---
 
-Targeting top-tier tech leaders and start-ups ready to leverage 3 decades of experience..
- 
-🔭 I'm currently working on these technology and and would be sharing my learnings through tutorials and code snippets here as well as via website:
+## 🧠 Areas of Expertise
 
-[www.aialchemyhub.in] 
+- **Tech Stack**: Python, PHP, Groovy, C++, MySQL/MariaDB
+- **AI/ML Toolkit**: Pandas, NumPy, Scikit-learn, OpenCV, NLTK, Transformers
+- **Architecture**: Microservices · Multi-Tenant Systems · RESTful APIs
+- **Practices**: Agile · Scrum · Test-Driven Development (TDD) · DevOps
+- **Domains**: AI/ML, NLP, Computer Vision, SaaS for SMEs
 
-🌱 I'm currently learning: Computer Vision, NLP, Large Scale AI Enabled Distributed Systems, Multi-Tenancy Web Applications for SMEs
+---
 
-👯 I'm looking to collaborate on: Open-source projects in the areas of - NLP, Computer Vision, AI & Ethics, and Lean Software Engineering).
+## 🛠️ What I'm Building Now
 
-💬 Ask me about: Full-stack development, product architecture, Agile methodologies, or specific technologies mentioned in my profile.
+> 🎯 Focused on designing **agentic AI systems**, **LLM-powered apps**, and **real-world AI microtools** for businesses.
 
-📫 How to reach me:  🤝 https://www.linkedin.com/in/spn25/ 
+🔬 Exploring:
+- AI-first multi-tenant web apps for SMEs
+- Distributed systems with embedded ML
+- Agent workflows & prompt engineering
 
- 
-😄 Pronouns: He/Him (or yours)
+📚 Tutorials & code snippets shared regularly at:  
+🌐 [www.aialchemyhub.in](https://www.aialchemyhub.in)
 
+---
 
+## 🤝 Let’s Collaborate
 
-**⚡ Fun Facts:**
+🔗 Open to:
+- Full-Time · Fractional CTO · Contract · Freelance
+- IC/PO/Consulting roles focused on **AI & product strategy**
 
-🌍 Lifelong Learner & Global Problem Solver
+🤝 Looking to collaborate on:
+- Open-source AI/ML projects (NLP, CV, Ethics, EduTech)
+- Business-focused AI microapps or consulting gigs
 
-🤖 AI Enthusiast with a Technical Symphony
+---
 
-💯 Early Agile Adopter & Quality Champion
+## 📫 Connect with Me
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/spn25/)
+- ✉️ Email available on request
+- 🧠 Always happy to chat AI, architecture, product strategy, or chess!
 
-  
-**✨ My Passions:**
+---
 
-👨‍🍳 I enjoy exploring the world of Culinary Arts in my free time. 
+## 😄 Fun Facts
 
-♟️ I'm a strategic thinker and enjoy playing Chess.  
+- 🌍 Lifelong learner & global problem solver
+- 🤖 AI enthusiast with a technical symphony
+- 💯 Early Agile adopter & quality champion
+- 👨‍🍳 Passionate about Culinary Arts
+- ♟️ Strategic thinker & avid chess player
 
+---
+
+🧭 _Let’s build intelligent systems that matter._
