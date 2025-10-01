@@ -12,33 +12,41 @@ With over **28 years of experience** across Operating Systems, Health Care, Logi
 
 ## 🧠 Areas of Expertise
 
-- **Tech Stack**: Python, PHP, Groovy, C++, MySQL/MariaDB
-- **AI/ML Toolkit**: Pandas, NumPy, Scikit-learn, OpenCV, NLTK, Transformers
-- **Architecture**: Microservices · Multi-Tenant Systems · RESTful APIs
-- **Practices**: Agile · Scrum · Test-Driven Development (TDD) · DevOps
-- **Domains**: AI/ML, NLP, Computer Vision, SaaS for SMEs
+- **Tech Stack**: Python · PHP · Groovy · C++ · MySQL/MariaDB  
+- **AI/ML Toolkit**: Pandas · NumPy · Scikit-learn · OpenCV · NLTK · Transformers  
+- **Architecture**: Microservices · Multi-Tenant Systems · RESTful APIs  
+- **Practices**: Agile · Scrum · TDD · DevOps  
+- **Domains**: AI/ML · NLP · Computer Vision · SaaS for SMEs
 
 ---
 
 ## 🛠️ What I'm Building Now
 
-> 🎯 Focused on designing **agentic AI systems**, **LLM-powered apps**, and **real-world AI microtools** for businesses.
+> 🎯 Designing **agentic AI systems**, **LLM-powered apps**, and **real-world AI microtools** for businesses.
 
 🔬 Exploring:
 - AI-first multi-tenant web apps for SMEs  
 - Distributed systems with embedded ML  
 - Agent workflows & prompt engineering
 
-📚 Tutorials & code snippets shared regularly at:  
-🌐 [www.aialchemyhub.in](https://www.aialchemyhub.in)
+📚 Tutorials & onboarding guides:  
+🌐 [AI Alchemy Hub](https://www.aialchemyhub.in)
 
 ---
 
-### 🔍 Current Focus Areas
+## 🚀 Featured Projects
+
+- [Learn Git Workflows](https://github.com/satya25/learn-git) — Modular C mini-project with Git onboarding  
+- [Live GitHub Page](https://satya25.github.io/learn-git/) — Public course landing via GitHub Pages  
+- [Meet the Alchemist](https://www.aialchemyhub.in/meet-the-alchemist.php) — My mission, legacy, and teaching vision
+
+---
+
+## 🔍 Current Focus Areas
 
 - ✅ **Bias & Ethical AI** — building responsible GenAI systems  
-- 🔐 **Cybersecurity** — exploring secure software design & threat modeling  
-- 👁️ **Computer Vision** — experimenting with OpenCV, segmentation, and real-time applications  
+- 🔐 **Cybersecurity** — secure software design & threat modeling  
+- 👁️ **Computer Vision** — OpenCV, segmentation, real-time apps  
 
 ---
 
@@ -56,9 +64,16 @@ With over **28 years of experience** across Operating Systems, Health Care, Logi
 
 ## 📫 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/spn25/)
-- ✉️ Email available on request  
+- 💼 [LinkedIn](https://www.linkedin.com/in/spn25/)  
+- ✉️ Email: _available on request_  
 - 🧠 Always happy to chat AI, architecture, product strategy, or chess!
+
+---
+
+## 🏆 GitHub Achievements
+
+- 🧪 **Pull Shark** — Merged PRs across open-source projects  
+- ❄️ **Arctic Code Vault Contributor** — Code preserved for future generations
 
 ---
 
